@@ -1,0 +1,236 @@
+body{
+    margin: 0px;
+}
+.contantH{
+    background-image: url(../images/b3.jpg);
+    height: 750px;
+}
+.Hnavbar{
+    background-color: #faa566;
+}
+.Hnavbar ul li a i{
+    color: #2e293c;
+    vertical-align:bottom;
+
+}
+.contantH .contantTop .c{
+    margin-top: 100px;
+}
+.Hnavbar ul li a .nav-link:hover{
+    color: #3e3c3c;
+}
+.About p{
+    color: #535353;
+}
+.photos .row .col-md-3{
+    margin: 0px;
+}
+.photos   .c1{
+    background-image: url(../images/s3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+    height:500px;
+    
+}
+.photos   .c2{
+    background-image: url(../images/s1.jpg);
+    background-repeat: no-repeat;
+        background-size: cover;
+        height: 500px;
+
+
+
+}
+.photos   .c3{
+    background-color: #ac68af;
+            background-size: cover;
+    height: 500px;
+
+
+
+}
+.photos  .c4{
+    background-image: url(../images/s4.jpg);
+    background-repeat: no-repeat;
+                background-size: cover;
+    background-position: center;
+
+    height: 800px;
+}
+.photos   .c5{
+    background-image: url(../images/s2.jpg);
+    background-repeat: no-repeat;
+            background-size: cover;
+    width:450px;
+        height: 400px;
+    margin-left: -15px;
+
+
+}
+.photos   .c6{
+ background-color: #7fbe47;
+         background-size: cover;
+    width: 450px;
+
+    height: 350px;
+}
+.photos   .c7{
+    background-color: #f858cd;
+             background-size: cover;
+
+        width: 450px;
+    margin-left: -15px;
+
+    height: 400px;
+
+}.photos   .c8{
+    background-image: url(../images/s6.jpg);
+    background-repeat: no-repeat;
+         background-size: cover;
+        width: 410px;
+
+    height: 450px;
+}
+.photos   .c9{
+    background-image: url(../images/s5.jpg);
+    background-repeat: no-repeat;
+         background-size: cover;
+    height: 800px;
+}
+.photos .row .c5 .c6 .c7 .c8 .c9:hover{
+    color: rgba(111, 111, 111,0.1);
+}
+.photos h2{
+    color: #fff;
+}
+ .marg{
+    margin-top: 150px;
+}
+
+ .Our_Team .row .col-md-4  ul li a {
+        font-size: 20px;
+    }
+
+.Our_Team h3{
+    color: #ba2a47;
+    font-size: 22px;
+}
+.Our_Team .row .col-md-4:hover{
+    border-style: outset;
+}
+.Benefits {
+    background: url(../images/b2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    
+}
+
+.Benefits .overlay {
+
+    padding: 60px 0;
+}
+.Gallery .row .col-md-4{
+    border-style: outset;
+}
+.Gallery .row .col-md-4:hover{
+    border-style: hidden;
+}
+
+
+.Blog{
+    background-color: #f7fdff;
+}
+.Blog .blog1{
+    background-image: url(../images/blog1.jpg);
+    background-repeat: no-repeat;
+         background-size: cover;
+        height: 500px;
+    position: relative;
+}
+.bog1{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 30px;
+    background-color: rgba(197, 197, 198,0.4);
+    height: 400px;
+    width: 550px;
+}
+.bog1 h2{
+    font-size: 70px;
+}
+.Blog .blog2{
+    background-image: url(../images/blog2.jpg);
+    background-repeat: no-repeat;
+         background-size: cover;
+        height: 500px;
+    position: relative;
+}
+.bog2{
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 30px;
+    background-color: rgba(197, 197, 198,0.4);
+    height: 400px;
+    width: 550px;
+}
+.bog2 h2{
+        font-size: 77px;
+
+}
+span{
+    color:#f04989;
+}
+.map{
+    width: 100%;
+    height: 250px;
+}
+
+.foorm .fo{
+    background-color: #f5d3ab;
+    height: 500px;
+}
+
+footer{
+    background-color: black;
+    color: #fff;
+}
+footer a{
+        color: #fff;
+}
+
+
+.back-top {
+    position: fixed;
+    bottom: 30px;
+    right: -40px;
+    background: #333;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    cursor:pointer;
+    transition: all .9999s ease;
+}
+
+.back-top.active {
+    right: 40px;
+}
+
+.back-top:hover {
+    background: #001bea;
+}
+.aa{
+    background-color: #faa566;
+    color: #fff;
+
+}
+.aa:hover{
+    background-color: #2e3131;
+
+}
+
